@@ -1,4 +1,4 @@
-.css {
+.cfix {
   list-style-type: none;
   padding: 0;
   margin:0;
@@ -6,3 +6,16 @@
 .box {
     padding: 40px;
 }
+
+.crep {
+	margin-bottom: 50px;
+}
+
+.lfix {
+	margin-top: 15px;
+}
+
+.hfix {
+	margin-top: 15px;
+}
+
