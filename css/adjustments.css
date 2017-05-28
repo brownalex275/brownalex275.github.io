@@ -9,7 +9,7 @@
 
 .crep {
 	margin-bottom: 50px;
-	padding-top: 10px;
+	padding-bottom: -10px;
 }
 
 .lfix {
@@ -21,5 +21,5 @@
 }
 
 .mfix {
-	margin-top: -10x;
+	margin-top: 20px;
 }
